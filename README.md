@@ -33,7 +33,7 @@ Lorsque tu repostes une annonce sur Vinted avec les **mêmes images**, l’algor
 
 ## 🚀 Utilisation
 
-Télécharge le fichier `VS_Generator.exe`, double-clique, et utilise l’interface simple pour :
+Télécharge le fichier `Vinted_Duplication.exe`, double-clique, et utilise l’interface simple pour :
 - Sélectionner tes images
 - Choisir un dossier de sortie
 - Générer automatiquement des variantes
